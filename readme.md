@@ -1,0 +1,1 @@
+Use app-release.apk to quickly install and see the app.
